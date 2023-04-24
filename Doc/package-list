@@ -1,0 +1,9 @@
+examples.integer
+examples.menu
+examples.precisiondouble
+examples.string
+org.academiadecodigo.bootcamp
+org.academiadecodigo.bootcamp.scanners.integer
+org.academiadecodigo.bootcamp.scanners.menu
+org.academiadecodigo.bootcamp.scanners.precisiondouble
+org.academiadecodigo.bootcamp.scanners.string
